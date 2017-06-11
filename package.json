@@ -18,5 +18,8 @@
   "homepage": "https://github.com/allenyyf/canvas#readme",
   "devDependencies": {
     "typescript": "^2.3.4"
+  },
+  "dependencies": {
+    "commonjs": "0.0.1"
   }
 }
